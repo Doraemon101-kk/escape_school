@@ -20,7 +20,7 @@ class Map(object):
         self.scenes = {
             'school_room': SchoolRoom(),
             'courtyard': Courtyard(),
-            'gate': gate(),
+            'gate': Gate(),
             'wall_climb': WallClimb(),
             'library_detention': LibraryDetention(),
             'temple_fair': TempleFair(),
